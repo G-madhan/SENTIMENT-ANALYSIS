@@ -1,5 +1,4 @@
 # SENTIMENT-ANALYSIS
-PERFORM SENTIMENT ANALYSIS ON TEXTUAL DATA (E.G., TWEETS) USING NATURAL LANGUAGE PROCESSING (NLP) TECHNIQUES.
 
 *COMPANY*: CODTECH IT SOLUTION
 
@@ -12,6 +11,8 @@ PERFORM SENTIMENT ANALYSIS ON TEXTUAL DATA (E.G., TWEETS) USING NATURAL LANGUAGE
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTHOSH
+
+PERFORM SENTIMENT ANALYSIS ON TEXTUAL DATA (E.G., TWEETS) USING NATURAL LANGUAGE PROCESSING (NLP) TECHNIQUES.
 
 **Sentiment analysis** is the process of determining the emotional tone behind a piece of text. It aims to identify whether the expressed opinion is positive, negative, or neutral. Essentially, it's about understanding how people feel about something from their written or spoken words.
 
