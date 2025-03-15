@@ -47,6 +47,7 @@ PERFORM SENTIMENT ANALYSIS ON TEXTUAL DATA (E.G., TWEETS) USING NATURAL LANGUAGE
             twitter_data = pd.read_csv('/content/training.1600000.processed.noemoticon.csv', encoding='ISO-8859-1')
 
 **Preprocess the data**
+
           def stemming(content):
             """Stems and cleans the text data."""
             stemmed_content = re.sub('[^a-zA-Z]', ' ', content)
